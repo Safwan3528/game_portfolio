@@ -13,8 +13,7 @@ export const dialogueData = {
   resume: `This is my desk and on it is my resume. <a href="https://safwanrahimi.vercel.app/" target="_blank">Check it out?</a>
   Contact me at tokrimauhitam@gmail.com if you have any interesting job opportunities!`,
   projects: `Info about this portfolio : It's made with the Kaboom.js library which is a library for making games in JavaScript.
-  Text is rendered with HTML/CSS. So the textbox you're currently reading is not rendered within canvas. Learn more about how to use
-  Kaboom.js`,
+  Text is rendered with HTML/CSS. So the textbox you're currently reading is not rendered within canvas.`,
   library: `There are a lot of programming books on my shelves. Who else compulsively buys technical books without ever finishing them?`,
   exit: `If you want to exit Safwan portfolio, just close the tab.`,
 };
